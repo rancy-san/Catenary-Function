@@ -2,7 +2,7 @@
 
 ### Description
 
-To investigate a Maclaurin series approximation to the Catenary function, imagine that an architecture company wishes to code a real-time simulation walk-through that includes a Catenary Arch (as shown below). To do this they are prepared to implement the Catenary function by a fast but approximate Maclaurin series instead of slower but more accurate math library functions. This program investigates the accuracy of the series approximation to this function.
+To apply a Maclaurin series approximation to the Catenary function, imagine that an architecture company wishes to code a real-time simulation walk-through that includes a Catenary Arch (as shown below). To do this they are prepared to implement the Catenary function by a fast but approximate Maclaurin series instead of slower but more accurate math library functions. This program investigates the accuracy of the series approximation to this function.
 
 ### Use
 
